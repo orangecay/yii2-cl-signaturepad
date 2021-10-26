@@ -1,9 +1,10 @@
 {
     "name": "diggindata/yii2-signaturepad",
     "description": "Yii2 widget to display a signature pad using https://github.com/INTELOGIE/signature_pad",
-    "keywords": ["yii2", "qrcode", "widget", "kjua"],
+    "keywords": ["yii2", "signature", "widget", "pad"],
     "type": "yii2-extension",
     "license": "BSD-3-Clause",
+    "version": "0.0.1",
     "authors": [
         {
             "name": "Joachim Werner",
