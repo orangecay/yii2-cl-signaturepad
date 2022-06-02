@@ -1,5 +1,5 @@
 {
-    "name": "diggindata/yii2-signaturepad",
+    "name": "orangecay/yii2-cl-signaturepad",
     "description": "Yii2 widget to display a signature pad using https://github.com/INTELOGIE/signature_pad",
     "keywords": ["yii2", "signature", "widget", "pad"],
     "type": "yii2-extension",
@@ -7,8 +7,8 @@
     "version": "0.0.1",
     "authors": [
         {
-            "name": "Joachim Werner",
-            "email": "joachim.werner@diggin-data.de"
+            "name": "M B",
+            "email": "menno@orangecay.com"
         }
     ],
     "minimum-stability": "dev",
@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "diggindata\\signaturepad\\": "src"
+            "orangecay\\signaturepad\\": "src"
         }
     }
 }

@@ -5,7 +5,7 @@
  * @license http://www.diggin-data.de/license/
  */
 
-namespace diggindata\signaturepad;
+namespace orangecay\signaturepad;
 
 use yii\base\Widget;
 use yii\helpers\Html;

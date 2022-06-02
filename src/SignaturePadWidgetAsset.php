@@ -5,7 +5,7 @@
  * @license http://www.diggin-data.de/license/
  */
 
-namespace diggindata\signaturepad;
+namespace orangecay\signaturepad;
 
 use yii\web\AssetBundle;
 
@@ -16,7 +16,7 @@ use yii\web\AssetBundle;
  */
 class SignaturePadWidgetAsset extends AssetBundle
 {
-    public $sourcePath = '@vendor/diggindata/yii2-signaturepad/src/assets';
+    public $sourcePath = '@vendor/orangecay/yii2-cl-signaturepad/src/assets';
     public $css = [
         // 'css/ie9.css',
         'css/signature-pad.css'

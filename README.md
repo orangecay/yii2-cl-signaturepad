@@ -1,5 +1,5 @@
-SignaturePa Extension for Yii 2
-===============================
+SignaturePad Extension for Yii 2
+================================
 
 This extension provides a **Signature Pad** widget for [Yii framework 2.0](http://www.yiiframework.com).
 
@@ -16,13 +16,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist diggindata/yii2-signaturepad
+php composer.phar require --prefer-dist orangecay/yii2-cl-signaturepad
 ```
 
 or add
 
 ```json
-"diggindata/yii2-signaturepad": "@dev"
+"orangecay/yii2-cl-signaturepad": "@dev"
 ```
 
 to the require section of your composer.json, then run `composer update`.
