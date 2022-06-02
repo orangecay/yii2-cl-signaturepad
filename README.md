@@ -5,8 +5,6 @@ This extension provides a **Signature Pad** widget for [Yii framework 2.0](http:
 
 It wraps the [INTELOGIE/signature_pad](https://github.com/INTELOGIE/signature_pad) library.
 
-[Latest Stable Version](https://packagist.org/packages/diggindata/yii2-signaturepad)
-
 
 Installation
 ------------
